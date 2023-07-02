@@ -1,0 +1,3 @@
+# VPC infrastructure
+vpc_id    = "<Your VPC ID>"
+subnet_id = "<Your subnet ID>"
